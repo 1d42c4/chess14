@@ -2,7 +2,7 @@
 
 Practical endgames with exact-result practice
 
-Live course: https://knightway8.github.io/chess14/
+Live course: https://1d42c4.github.io/chess14/
 
 ## 01. The king becomes a working piece
 
